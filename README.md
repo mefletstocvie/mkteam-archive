@@ -1,2 +1,14 @@
 # mkteam-archive
-HTML page archive and documentation
+
+页面托管与归档说明
+
+本仓库用于发布静态页面，后续文件会根据任务继续追加。
+
+## 发布目录
+
+- HTML 文件保存在当前仓库
+- GitHub Pages 可用于公开访问
+
+## 文件维护
+
+请以仓库当前文件和提交记录判断最新状态。
